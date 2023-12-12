@@ -11,10 +11,10 @@ New here? No stress, let's get to know each other.
 📧[Project Inquiries](mailto:larsnmusic@gmail.com) | 💼[LinkedIn](linkedin.com/in/hannahlars) | 🌐[Website](hannah-larsen.github.io)
 
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,c,haskell)](https://skillicons.dev)
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
 ### Tools I use
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,illustrator,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,ableton,figma,latex,illustrator,photoshop)](https://skillicons.dev)

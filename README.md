@@ -8,7 +8,7 @@ New here? No stress, let's get to know each other.
 💬 Ask me about: Audio development and how I like to integrate it with code.\
 ⚡ Fun fact: I listen to Imagine Dragons unironically...
 
-📧[larsnmusic@gmail.com](mailto:larsnmusic@gmail.com) | 💼[LinkedIn](linkedin.com/in/hannahlars) | 🌐[Website](hannah-larsen.github.io)
+📧[Project Inquiries](mailto:larsnmusic@gmail.com) | 💼[LinkedIn](linkedin.com/in/hannahlars) | 🌐[Website](hannah-larsen.github.io)
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,python,java,c,chuck)](https://skillicons.dev)

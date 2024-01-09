@@ -5,7 +5,7 @@ New here? No stress, let's get to know each other.
 😄 Pronouns: she/her.\
 💻 Education: Just graduated from Queen's University Computing and the Creative Arts (BAH).\
 🔭 Currently working on: Creating a [web app](https://github.com/hannah-larsen/SoundBytes) where users can interact with different sounds and create their own interactive audio environment.\
-✨ Favourite project: [Hexcodle](https://www.hexcodle.com) a wordle-inspired game for colour geeks, created by myself and @ekimerton. We've just surpassed 20k users since deployment in August 2023!
+✨ Favourite project: [Hexcodle](https://www.hexcodle.com) a wordle-inspired game for colour geeks, created by myself and @ekimerton. We've just surpassed 20k users since deployment in August 2023!\
 💬 Ask me about: Audio development and how I like to integrate it with my code!\
 ⚡ Fun fact: I listen to Imagine Dragons unironically...
 

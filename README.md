@@ -1,7 +1,5 @@
 ## Hey what's up, its Han! Welcome to my (not so organized) GitHub!
 
-New here? No stress, let's get to know each other.
-
 😄 Pronouns: she/her.\
 💻 Education: Just graduated from Queen's University Computing and the Creative Arts (BAH).\
 🔭 Currently working on: Collaborating with @ekimerton to create a [Wordle-style web app](https://github.com/ekimerton/word-game) for guessing synonyms!\

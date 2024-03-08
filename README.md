@@ -2,7 +2,7 @@
 
 😄 Pronouns: she/her.\
 💻 Education: Just graduated from Queen's University Computing and the Creative Arts (BAH).\
-🔭 Currently working on: Collaborating with @ekimerton to create a [Wordle-style web app](https://github.com/ekimerton/word-game) for guessing synonyms!\
+🔭 Currently working on: Collaborating with @ekimerton to create a Wordle-style web app called [Relatle](https://github.com/ekimerton/word-game) for guessing synonyms!\
 ✨ Favourite project: [Hexcodle](https://www.hexcodle.com) a wordle-inspired game for colour geeks, created by myself and @ekimerton. We've just surpassed 20k users since deployment in August 2023!\
 💬 Ask me about: Audio development and how I like to integrate it with my code!\
 ⚡ Fun fact: I listen to Imagine Dragons unironically...

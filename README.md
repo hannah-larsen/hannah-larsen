@@ -1,6 +1,7 @@
 ## Hey what's up, I'm Hannah! Welcome to my GitHub.
 
 💻 Education: Queen's University Computing and the Creative Arts.\
+💼 Work: Graphic Design/Social Media Management & Shopify coding @ Stelvio Brands Inc.
 🔭 Currently plotting and scheming: an interactive soundscape web application: [Toronto ToneLab](https://torontotonelab.vercel.app/).\
 ✨ Favourite project: [Hexcodle](https://www.hexcodle.com) a wordle-inspired game for colour geeks, created by myself and [@ekimerton](https://github.com/ekimerton/). Fun fact: we've surpassed 100k users since deployment in August 2023.\
 💬 Ask me about: Audio development and how I like to integrate it with coding!\

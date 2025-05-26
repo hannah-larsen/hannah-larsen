@@ -1,7 +1,7 @@
 ## Hey what's up, I'm Hannah! Welcome to my GitHub.
 
 💻 Education: Queen's University Computing and the Creative Arts.\
-🔭 Currently plotting and scheming: updating my [portfolio website](https:hannah-larsen.github.io).\
+🔭 Currently plotting and scheming: updating my [portfolio website](https://www.hannah-larsen.github.io).\
 ✨ Favourite project: [Hexcodle](https://www.hexcodle.com) a wordle-inspired game for colour geeks, created by myself and [@ekimerton](https://github.com/ekimerton/). Fun fact: we've surpassed 170k users since deployment in August 2023.\
 💬 Ask me about: Audio development and how I like to integrate it with coding!\
 ⚡ Fun fact: I listen to Imagine Dragons unironically...
